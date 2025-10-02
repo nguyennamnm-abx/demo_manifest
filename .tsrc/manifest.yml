@@ -1,0 +1,7 @@
+repos:
+  - url: git@gh_abx:nguyennamnm-abx/demo_fe.git
+    dest: demo_fe
+    branch: main
+  - url: git@gh_abx:nguyennamnm-abx/demo_be.git
+    dest: demo_be
+    branch: main
